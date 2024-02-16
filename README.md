@@ -14,6 +14,7 @@
 1.  Marble cake
 
 ### Icecreams
-### strawberry icecream
 
+- strawberry icecream
+- Vanilla icecream
 
